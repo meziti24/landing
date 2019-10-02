@@ -1,0 +1,16 @@
+.banner {
+  background-image: linear-gradient(15deg, rgba(182, 182, 182, 0.637) 0%, rgba(143, 143, 143, 0.4) 50%), url(../../images/womensbackground.jpg);
+  color: white;
+  padding: 120px 0px;
+  background-position: center;
+  background-size: cover;
+}
+.banner h1 {
+  font-size: 40px;
+}
+.banner h2 {
+  font-weight: lighter;
+  opacity: 0.75;
+  margin-bottom: 35px;
+  font-size: 20px;
+}
